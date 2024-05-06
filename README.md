@@ -3,9 +3,11 @@
 
 <a href="https://admiusa.org/admi2024/codeathon.php">2024 ADMI Symposium on Computing at Minority Institutions</a>
 
-<img src="assets/ADMI_2024-Codeathon.jpg" style="float: left; margin: 10px;" width="30%" />
 
 ### Outputs
+
+<img src="assets/ADMI_2024-Codeathon.jpg" style="float: left; margin: 20px;" width="30%" alt="ADMI24 Codeathon Logo" />
+
   * <a href="https://github.com/HackHPC/codeathonatadmi24/tree/main/assets/Teams">Team Presentations</a>
   * <a href="assets/Sample_Code_Snippets_to_Help.pdf">Sample Code Snippets (PDF)</a>
   * <a href="assets/ADMI_2024-Codeathon.pdf">Introduction Presentation (PDF)</a>
