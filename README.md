@@ -5,7 +5,7 @@
 
 ### Outputs
 
-<img src="assets/ADMI_2024-Codeathon.jpg" style="float: left; margin: 20px;" width="30%" alt="ADMI24 Codeathon Logo" />
+<img src="assets/ADMI_2024-Codeathon.jpg" style="float: left; margin-right: 20px;" width="30%" alt="ADMI24 Codeathon Logo" />
 
   * <a href="https://github.com/HackHPC/codeathonatadmi24/tree/main/assets/Teams">Team Presentations</a>
   * <a href="assets/Sample_Code_Snippets_to_Help.pdf">Sample Code Snippets (PDF)</a>
