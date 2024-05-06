@@ -13,7 +13,7 @@
   * <a href="assets/ADMI_2024-Codeathon.pdf">Introduction Presentation (PDF)</a>
   * <a href="assets/assets/ADMI_2024-Codeathon-ThePlan.pdf">Software Engineering Extention (PDF) </a>
 
-<hr>
+<br>
 <p>
 The Association of Computer Science Departments at Minority Institutions (ADMI) is hosting a community coding/codeathon event entitled "Take a Ride on the International Space Station (ISS)" as part of the 2024 ADMI Symposium on Computing at Minority Institutions. Join us as we delve into the realm of space exploration!
 
