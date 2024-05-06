@@ -1,5 +1,4 @@
 # 2024 ADMI CODEATHON COMPETITION
-<i>April 4th-6th, 2024</i>
 
 <a href="https://admiusa.org/admi2024/codeathon.php">2024 ADMI Symposium on Computing at Minority Institutions</a>
 
