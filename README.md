@@ -1,11 +1,12 @@
-# 2024 ADMI CODEATHON COMPETITION
+# 2024 ADMI CODEATHON COMPETITION:
+## Take a Ride on the International Space Station (ISS)
 
 <a href="https://admiusa.org/admi2024/codeathon.php">2024 ADMI Symposium on Computing at Minority Institutions</a>
 
 
 ### Outputs
 
-<img src="assets/ADMI_2024-Codeathon.jpg" style="float: left; margin-right: 20px;" width="30%" alt="ADMI24 Codeathon Logo" />
+<img src="assets/ADMI_2024-Codeathon.jpg" style="float: left; margin-right: 30px;" width="30%" alt="ADMI24 Codeathon Logo" />
 
   * <a href="https://github.com/HackHPC/codeathonatadmi24/tree/main/assets/Teams">Team Presentations</a>
   * <a href="assets/Sample_Code_Snippets_to_Help.pdf">Sample Code Snippets (PDF)</a>
